@@ -1,0 +1,6 @@
+{
+  "name": "ClipMind AI",
+  "description": "An endless offline paperclip optimization AI simulation with real-time production telemetry, automated research tiers, global domination chronicle, isolated sandbox lab, flagship LRA haptics, and 8 low-strain visual themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

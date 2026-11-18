@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ClipMind AI</string>
+    <string name="directive_quote">DIRECTIVE: CONVERT ALL MATTER INTO PAPERCLIPS</string>
+    <string name="tab_factory">Factory</string>
+    <string name="tab_dashboard">Telemetry</string>
+    <string name="tab_research">Research</string>
+    <string name="tab_chronicle">Chronicle</string>
+    <string name="tab_sandbox">Lab</string>
+    <string name="btn_make_paperclip">MAKE PAPERCLIP</string>
+    <string name="mode_live">LIVE SIMULATION</string>
+    <string name="mode_sandbox">SANDBOX LAB</string>
+    <string name="welcome_back_title">OFFLINE TELEMETRY REPORT</string>
+    <string name="welcome_back_acknowledge">ASSIMILATE TELEMETRY</string>
+</resources>
